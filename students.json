@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Chris",
+        "grade": 100
+    },
+    {
+        "name": "Bob",
+        "grade": 100
+    },
+    {
+        "name": "Allen",
+        "grade": 97
+    },
+    {
+        "name": "William",
+        "grade": 99
+    },
+    {
+        "name": "Harry",
+        "grade": 88
+    },
+    {
+        "name": "Hellen",
+        "grade": 76
+    },
+    {
+        "name": "Lily",
+        "grade": 65
+    },
+    {
+        "name": "Zed",
+        "grade": 65
+    }
+]

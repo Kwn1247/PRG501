@@ -1,0 +1,10 @@
+Income:
+salary - 10000.0
+
+Expenses:
+Housing - Rent - 1200.0 - 2025-06-28
+
+Summary:
+Total Income: 10000.0
+Total Expenses: 1200.0
+Remaining Balance: 8800.0

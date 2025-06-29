@@ -1,0 +1,16 @@
+{
+    "income": [
+        {
+            "source": "Job",
+            "amount": 6000
+        }
+    ],
+    "expenses": [
+        {
+            "description": "Rent",
+            "category": "Housing",
+            "amount": 1000,
+            "date": "2024-06-20"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+Income:
+Job - 6000
+Expenses:
+Rent - Housing - 1000 - 2024-06-20
